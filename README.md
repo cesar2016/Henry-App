@@ -39,3 +39,7 @@ Instancia evaluativa de [Soy Henry](https://www.soyhenry.com/)
 ## Objetivo 📌
 Lograr una aplicación que pueda administrar alumnos, dividirlos por cohortes y por grupos automaticamente, crear alumnos masivamente, asignar roles y administrar instructorres.
 
+## cesars.pro@gmail.com
+## Linkedin: https://www.linkedin.com/in/cesar-sanchez-dev/
+## Para ver y descargar mi CV: <a href="https://shorten.world/qxnxs"> Clic Aca ...</a>
+
